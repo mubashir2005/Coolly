@@ -37,9 +37,9 @@ def do():
 
     except:
         talk('Can you say that again?')
-      if command == '':
+    if command == '':
         pass
-      else:
+    else:
         return command
 
 
